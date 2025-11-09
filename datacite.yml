@@ -6,18 +6,18 @@ data:
       - name: Tommaso Volpi
         givenName: ''
         familyName: ''
-        order: 0
+        order: 1
         nameType: Personal
         nameIdentifiers: &ref_0 []
         contributorType: Researcher
-      - name: Richard E. Carson
+      - name: JD Gallezot
         givenName: ''
         familyName: ''
-        order: 0
+        order: 2
         nameType: Personal
         nameIdentifiers: &ref_1 []
         contributorType: Researcher
-      - name: JD Gallezot
+      - name: Richard E. Carson
         givenName: ''
         familyName: ''
         order: 3
@@ -28,16 +28,16 @@ data:
       - name: Tommaso Volpi
         givenName: ''
         familyName: ''
-        order: 0
+        order: 1
         nameType: Personal
         nameIdentifiers: *ref_0
-      - name: Richard E. Carson
+      - name: JD Gallezot
         givenName: ''
         familyName: ''
-        order: 0
+        order: 2
         nameType: Personal
         nameIdentifiers: *ref_1
-      - name: JD Gallezot
+      - name: Richard E. Carson
         givenName: ''
         familyName: ''
         order: 3
