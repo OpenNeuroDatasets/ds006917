@@ -1,0 +1,81 @@
+{
+  "TracerName": "FDG",
+  "TracerRadionuclide": "F-18",
+  "InjectedRadioactivity": 362.23001,
+  "InjectedRadioactivityUnits": "MBq",
+  "InjectedMass": 0.0,
+  "InjectedMassUnits": "nmol",
+  "SpecificRadioactivity": "n/a",
+  "SpecificRadioactivityUnits": "n/a",
+  "ModeOfAdministration": "bolus-infusion",
+  "TracerMolecularWeight": 0.0,
+  "TracerMolecularWeightUnits": "g/mol",
+  "InjectedMassPerWeight": 0.0,
+  "InjectedMassPerWeightUnits": "ug/kg",
+  "SpecificRadioactivityMeasTime": "12:32:15",
+  "MolarActivity": 0.0,
+  "MolarActivityUnits": "MBq/nmol",
+  "MolarActivityMeasTime": "12:32:15",
+  "InfusionRadioactivity": 155.73372,
+  "InfusionStart": 60.0,
+  "InfusionSpeed": 0.0025999586,
+  "InfusionSpeedUnits": "mL/s",
+  "InjectedVolume": 27.923599,
+  "Purity": 0.0,
+  "PharmaceuticalName": "n/a",
+  "PharmaceuticalDoseAmount": 0,
+  "PharmaceuticalDoseUnits": "mg/kg",
+  "PharmaceuticalDoseRegimen": "n/a",
+  "TimeZero": "12:32:15",
+  "ScanStart": 0.0,
+  "InjectionStart": 0.0,
+  "InjectionEnd": 5400.0,
+  "FrameTimesStart": [
+    0.0
+  ],
+  "FrameDuration": [
+    600.0
+  ],
+  "AcquisitionMode": "list mode",
+  "ImageDecayCorrected": true,
+  "ImageDecayCorrectionTime": 0.0,
+  "ReconMethodName": "3d-osem-psf",
+  "ReconMethodParameterLabels": [
+    "subsets",
+    "iterations"
+  ],
+  "ReconMethodParameterUnits": [
+    "none",
+    "none"
+  ],
+  "ReconMethodParameterValues": [
+    30,
+    2
+  ],
+  "ReconFilterType": "none",
+  "AttenuationCorrection": "measured,, 0.096000 cm-1",
+  "ReconMethodImplementationVersion": "06.00",
+  "ScaleFactor": [
+    1.0
+  ],
+  "ScatterFraction": [
+    0.38569999
+  ],
+  "DecayCorrectionFactor": [
+    1.032463
+  ],
+  "DoseCalibrationFactor": 1.08108,
+  "PromptRate": [
+    335186.56
+  ],
+  "RandomRate": [
+    92391.75
+  ],
+  "Manufacturer": "CPS",
+  "ManufacturersModelName": "HRRT",
+  "Units": "Bq/mL",
+  "BodyPart": "Brain",
+  "InstitutionName": "Positron Emission Tomography Center, Yale School of Medicine",
+  "InstitutionAddress": "New Haven, CT, United States of America",
+  "InstitutionalDepartmentName": "Radiology and Biomedical Imaging"
+}
