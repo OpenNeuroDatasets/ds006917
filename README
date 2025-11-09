@@ -8,7 +8,7 @@ Magnetic resonance imaging (MRI) T1-weighted (T1w) images with 1.0-mm isotropic 
 As to PET images, on both NX and HRRT, images were reconstructed using a 3-D ordered-subset expectation–maximization (OSEM) algorithm (NX: 7 iterations, 10 subsets, 0.5-mm isotropic voxels, with the exception of 11C-PHNO: 4 iterations, 10 subsets; HRRT: 2 iterations, 30 subsets, 1.2-mm isotropic voxels) with corrections for point spread function, attenuation, scatter, randoms, and deadtime. The NX reconstruction also included TOF, depth of interaction, and inter-crystal scatter correction. No post-reconstruction filtering was applied for either scanner.
 The HRRT motion-corrected dynamic data were mapped to NX space, by combining the HRRT-to-T1w and NX-to-T1w linear transformations.
 
-Early (0-10 min) and late standard uptake value (SUV) images are provided. For late SUV images, different time windows were used: 60–90 min for 18F-FDG, 18F-SynVesT-1 and 18F-FPEB, 40–60 min for 11C-PHNO and 11C-DASB, 40–90 min for 18F-FE-PE2I, and 60–120 min for 18F-Flubatine. 
+Early (0-10 min) and late images are provided. For the late images, different time windows were used: 60–90 min for 18F-FDG, 18F-SynVesT-1 and 18F-FPEB, 40–60 min for 11C-PHNO and 11C-DASB, 40–90 min for 18F-FE-PE2I, and 60–120 min for 18F-Flubatine. 
 
 
 
