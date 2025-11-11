@@ -1,0 +1,8 @@
+{
+    "species": {
+        "Description": "species of the participant"
+    },
+	"pathology": {
+        "Description": "pathology group to which the participant was assigned"
+    }
+}
