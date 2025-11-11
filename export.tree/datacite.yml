@@ -1,0 +1,48 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Tommaso Volpi
+        givenName: ''
+        familyName: ''
+        order: 1
+        nameType: Personal
+        nameIdentifiers: &ref_0 []
+        contributorType: Researcher
+      - name: JD Gallezot
+        givenName: ''
+        familyName: ''
+        order: 2
+        nameType: Personal
+        nameIdentifiers: &ref_1 []
+        contributorType: Researcher
+      - name: Richard E. Carson
+        givenName: ''
+        familyName: ''
+        order: 3
+        nameType: Personal
+        nameIdentifiers: &ref_2 []
+        contributorType: Researcher
+    creators:
+      - name: Tommaso Volpi
+        givenName: ''
+        familyName: ''
+        order: 1
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: JD Gallezot
+        givenName: ''
+        familyName: ''
+        order: 2
+        nameType: Personal
+        nameIdentifiers: *ref_1
+      - name: Richard E. Carson
+        givenName: ''
+        familyName: ''
+        order: 3
+        nameType: Personal
+        nameIdentifiers: *ref_2
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
